@@ -38,3 +38,5 @@ Multi-language support
 Streaming support with subtitles
 
 ⚠️ Disclaimer: This project is created only for educational and portfolio purposes. It does not host or promote piracy.
+
+Made by **Aditya Prakash Purohit**
